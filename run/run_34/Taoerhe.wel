@@ -1,0 +1,60 @@
+#
+   46   740 AUX IFACE AUX QFACT AUX CELLGRP                    #  2. MXACTW IWELCB [Option]
+   46     0                                                    #  5. ITMP NP          Stress Period   1
+    1    26     6     6259.139     0           1.0     1       #  6. Layer Row Column Q [xyz]
+    1    25     7     8508.114     0           1.0     1       #  6. Layer Row Column Q [xyz]
+    1    27     5     2982.147     0           1.0     2       #  6. Layer Row Column Q [xyz]
+    1    26     6     992.9798     0           1.0     2       #  6. Layer Row Column Q [xyz]
+    1     8    18     3187.321     0           1.0     3       #  6. Layer Row Column Q [xyz]
+    1     8    18     9645.068     0           1.0     4       #  6. Layer Row Column Q [xyz]
+    1     8    19     2458.667     0           1.0     4       #  6. Layer Row Column Q [xyz]
+    1    62    59     -240.724     0           1.0     5       #  6. Layer Row Column Q [xyz]
+    1    63    58      -830.99     0           1.0     5       #  6. Layer Row Column Q [xyz]
+    1    63    57     -752.178     0           1.0     5       #  6. Layer Row Column Q [xyz]
+    1    64    54     -814.319     0           1.0     5       #  6. Layer Row Column Q [xyz]
+    1    64    53      -175.04     0           1.0     5       #  6. Layer Row Column Q [xyz]
+    1    65    51     -804.519     0           1.0     5       #  6. Layer Row Column Q [xyz]
+    1    65    50     -804.519     0           1.0     5       #  6. Layer Row Column Q [xyz]
+    1    65    49     -295.869     0           1.0     5       #  6. Layer Row Column Q [xyz]
+    1    66    46     -789.962     0           1.0     5       #  6. Layer Row Column Q [xyz]
+    1    66    45     -789.962     0           1.0     5       #  6. Layer Row Column Q [xyz]
+    1    66    44     -789.962     0           1.0     5       #  6. Layer Row Column Q [xyz]
+    1    66    43     -789.403     0           1.0     5       #  6. Layer Row Column Q [xyz]
+    1    66    42     -788.989     0           1.0     5       #  6. Layer Row Column Q [xyz]
+    1    66    41     -788.687     0           1.0     5       #  6. Layer Row Column Q [xyz]
+    1    66    40     -788.182     0           1.0     5       #  6. Layer Row Column Q [xyz]
+    1    34    73     -622.151     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    38    72     -633.875     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    39    72     -934.829     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    42    71     -730.629     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    43    71     -953.996     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    44    70      -48.937     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    45    70     -1013.65     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    46    69     -74.8599     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    47    69     -1016.84     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    48    68     -117.199     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    49    68     -1016.84     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    50    67     -159.538     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    51    67     -1016.84     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    52    66     -201.878     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    53    66     -1016.75     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    54    65     -220.103     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    55    65     -1010.97     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    56    64     -204.795     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    57    64     -1017.29     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    58    63     -639.453     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    59    62     -473.694     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    60    61     -320.955     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    61    60     -230.826     0           1.0     6       #  6. Layer Row Column Q [xyz]
+    1    62    59     -145.109     0           1.0     6       #  6. Layer Row Column Q [xyz]
+   -1     0                                                    #  5. ITMP NP          Stress Period   2
+   -1     0                                                    #  5. ITMP NP          Stress Period   3
+   -1     0                                                    #  5. ITMP NP          Stress Period   4
+   -1     0                                                    #  5. ITMP NP          Stress Period   5
+   -1     0                                                    #  5. ITMP NP          Stress Period   6
+   -1     0                                                    #  5. ITMP NP          Stress Period   7
+   -1     0                                                    #  5. ITMP NP          Stress Period   8
+   -1     0                                                    #  5. ITMP NP          Stress Period   9
+   -1     0                                                    #  5. ITMP NP          Stress Period  10
+   -1     0                                                    #  5. ITMP NP          Stress Period  11
+   -1     0                                                    #  5. ITMP NP          Stress Period  12

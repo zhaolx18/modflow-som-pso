@@ -1,0 +1,411 @@
+#           CoverageGUID ObjectType ID X Y Time OBNAME
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_0 no_rivf0
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_1 no_rivf1
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_2 no_rivf2
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_3 no_rivf3
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_4 no_rivf4
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_5 no_rivf5
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_6 no_rivf6
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_7 no_rivf7
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_8 no_rivf8
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_9 no_rivf9
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_10 no_rivf10
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_11 no_rivf11
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_12 no_rivf12
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_13 no_rivf13
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_14 no_rivf14
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_15 no_rivf15
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_16 no_rivf16
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_17 no_rivf17
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_18 no_rivf18
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_19 no_rivf19
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_20 no_rivf20
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_21 no_rivf21
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_22 no_rivf22
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_23 no_rivf23
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_24 no_rivf24
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_25 no_rivf25
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_26 no_rivf26
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_27 no_rivf27
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_28 no_rivf28
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_29 no_rivf29
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_30 no_rivf30
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_31 no_rivf31
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_32 no_rivf32
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_33 no_rivf33
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_34 no_rivf34
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 10 465992.32000736 5028391.2789816 ts_35 no_rivf35
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_0 no_rivf36
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_1 no_rivf37
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_2 no_rivf38
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_3 no_rivf39
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_4 no_rivf40
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_5 no_rivf41
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_6 no_rivf42
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_7 no_rivf43
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_8 no_rivf44
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_9 no_rivf45
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_10 no_rivf46
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_11 no_rivf47
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_12 no_rivf48
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_13 no_rivf49
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_14 no_rivf50
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_15 no_rivf51
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_16 no_rivf52
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_17 no_rivf53
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_18 no_rivf54
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_19 no_rivf55
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_20 no_rivf56
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_21 no_rivf57
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_22 no_rivf58
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_23 no_rivf59
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_24 no_rivf60
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_25 no_rivf61
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_26 no_rivf62
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_27 no_rivf63
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_28 no_rivf64
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_29 no_rivf65
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_30 no_rivf66
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_31 no_rivf67
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_32 no_rivf68
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_33 no_rivf69
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_34 no_rivf70
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 12 461460.93746511 5047921.646855 ts_35 no_rivf71
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_0 no_rivf72
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_1 no_rivf73
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_2 no_rivf74
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_3 no_rivf75
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_4 no_rivf76
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_5 no_rivf77
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_6 no_rivf78
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_7 no_rivf79
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_8 no_rivf80
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_9 no_rivf81
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_10 no_rivf82
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_11 no_rivf83
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_12 no_rivf84
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_13 no_rivf85
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_14 no_rivf86
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_15 no_rivf87
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_16 no_rivf88
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_17 no_rivf89
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_18 no_rivf90
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_19 no_rivf91
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_20 no_rivf92
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_21 no_rivf93
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_22 no_rivf94
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_23 no_rivf95
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_24 no_rivf96
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_25 no_rivf97
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_26 no_rivf98
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_27 no_rivf99
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_28 no_rivf100
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_29 no_rivf101
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_30 no_rivf102
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_31 no_rivf103
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_32 no_rivf104
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_33 no_rivf105
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_34 no_rivf106
+#GMSCOMMENT 6aa9ecb9-74d0-4337-9c27-9afc280eb77c ARC 8 488062.01187227 5023633.1633541 ts_35 no_rivf107
+    3   189   108                                                         #  1. NQRV NQCRV NQTRV
+         1.0          1.0     0                                           #  2. TOMULTRV EVFRV IOWTQRV
+   36    86                                                               #  3. NQOBRV NQCLRV
+no_rivf0         1     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf1         1     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf2         2          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf3         2     9.666667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf4         2     19.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf5         3          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf6         3     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf7         3     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf8         4          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf9         4         10.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf10        4         20.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf11        5          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf12        5     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf13        5     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf14        6          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf15        6         10.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf16        6         20.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf17        7          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf18        7     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf19        7     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf20        8          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf21        8     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf22        8     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf23        9          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf24        9         10.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf25        9         20.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf26       10          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf27       10     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf28       10     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf29       11          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf30       11         10.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf31       11         20.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf32       12          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf33       12     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf34       12     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf35       12         31.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+    1    63    51          0.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    63    51          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    63    50          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    63    49          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    63    48          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    63    47          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    63    46          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    63    45          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    63    44          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    63    43          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    62    43          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    62    42          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    62    41          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    62    40          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    62    39          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    61    39          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    61    38          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    61    37          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    60    37          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    60    36          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    60    35          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    59    35          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    59    34          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    58    34          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    58    33          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    57    33          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    57    32          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    56    32          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    55    32          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    54    32          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    53    32          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    52    32          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    51    32          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    51    31          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    50    31          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    50    30          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    49    30          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    48    30          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    48    29          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    47    29          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    46    29          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    46    28          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    45    28          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    44    28          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    44    27          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    43    27          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    42    27          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    42    26          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    41    26          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    41    27          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    41    26          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    40    26          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    40    25          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    39    25          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    38    25          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    38    24          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    37    24          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    37    23          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    36    23          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    36    22          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    35    22          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    35    21          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    35    20          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    35    19          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    34    19          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    34    18          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    33    18          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    33    17          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    32    17          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    32    16          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    32    15          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    31    15          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    31    14          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    30    14          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    30    13          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    29    13          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    29    12          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    29    11          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    28    11          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    28    10          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    28     9          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    28     8          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    28     7          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    27     7          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    27     6          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    26     6          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+   36    93                                                               #  3. NQOBRV NQCLRV
+no_rivf36        1     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf37        1     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf38        2          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf39        2     9.666667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf40        2     19.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf41        3          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf42        3     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf43        3     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf44        4          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf45        4         10.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf46        4         20.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf47        5          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf48        5     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf49        5     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf50        6          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf51        6         10.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf52        6         20.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf53        7          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf54        7     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf55        7     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf56        8          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf57        8     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf58        8     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf59        9          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf60        9         10.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf61        9         20.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf62       10          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf63       10     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf64       10     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf65       11          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf66       11         10.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf67       11         20.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf68       12          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf69       12     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf70       12     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf71       12         31.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+    1    63    51          0.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    63    51          0.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    63    51          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    62    51          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    61    51          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    61    50          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    61    49          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    60    49          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    59    49          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    59    48          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    58    48          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    58    47          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    59    47          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    58    47          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    58    46          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    57    46          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    57    45          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    57    44          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    56    44          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    55    44          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    55    43          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    54    43          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    53    43          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    53    42          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    52    42          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    52    41          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    52    40          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    51    40          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    51    39          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    51    38          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    50    38          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    49    38          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    49    37          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    48    37          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    47    37          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    47    36          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    46    36          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    45    36          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    45    35          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    45    34          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    44    34          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    44    33          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    43    33          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    43    32          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    43    31          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    42    31          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    42    30          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    41    30          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    40    30          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    40    29          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    39    29          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    38    29          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    38    28          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    37    28          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    36    28          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    36    27          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    35    27          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    34    27          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    34    26          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    33    26          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    32    26          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    32    25          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    31    25          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    30    25          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    30    24          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    29    24          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    28    24          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    27    24          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    26    24          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    25    24          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    25    23          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    24    23          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    23    23          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    22    23          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    22    22          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    21    22          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    21    21          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    20    21          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    19    21          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    18    21          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    18    20          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    17    20          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    16    20          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    16    19          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    15    19          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    15    18          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    14    18          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    13    18          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    12    18          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    11    18          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    10    18          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1     9    18          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1     8    18          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+   36    10                                                               #  3. NQOBRV NQCLRV
+no_rivf72        1     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf73        1     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf74        2          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf75        2     9.666667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf76        2     19.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf77        3          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf78        3     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf79        3     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf80        4          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf81        4         10.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf82        4         20.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf83        5          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf84        5     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf85        5     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf86        6          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf87        6         10.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf88        6         20.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf89        7          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf90        7     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf91        7     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf92        8          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf93        8     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf94        8     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf95        9          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf96        9         10.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf97        9         20.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf98       10          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf99       10     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf100      10     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf101      11          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf102      11         10.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf103      11         20.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf104      12          0.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf105      12     10.33333          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf106      12     20.66667          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+no_rivf107      12         31.0          1.0     1.0e+018     1     1     #  4. OBSNAM IREFSP TOFFSET HOBS STATISTIC STAT-FLAG PLOT-SYMBOL
+    1    62    59          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    62    58          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    62    57          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    63    57          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    63    56          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    63    55          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    63    54          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    63    53          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    63    52          1.0                                            #  5. LAYER ROW COLUMN FACTOR
+    1    63    51          1.0                                            #  5. LAYER ROW COLUMN FACTOR
