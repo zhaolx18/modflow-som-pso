@@ -12,9 +12,9 @@ Sampled parameter values and corresponding objective functions (result.csv)
 Simulated water levels corresponding to each parameter set (first_columns_os.csv)
 Additional output files related to 95 PPU calculations.
 ## SOM.py
-Main Functionality: Performs two-dimensional Self-Organizing Map (SOM) clustering on the parameter sets.
+Main Functionality: Performs two-dimensional Self-Organizing Map (SOM) clustering on the parameter sets for optimizing parameter ranges.
 
-Output Files: Clustering results at different grid sizes and optimized parameter ranges (SOM_n*n.xlsx).
+Output Files: Clustering results at different grid sizes and results of parameter range optimization (SOM_n*n.xlsx).
 
 ## PSO.py
 Main Functionality: Uses Particle Swarm Optimization (PSO) to estimate the optimal parameter sets for the study area.
